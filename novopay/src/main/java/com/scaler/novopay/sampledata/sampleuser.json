@@ -1,0 +1,9 @@
+{
+  "id":"xxxxxx0902",
+  "userName": "User 1",
+  "wallet": {
+    "mobileNumber": "xxxxxx0902",
+    "availableAmount": 1000.0
+  }
+}
+
